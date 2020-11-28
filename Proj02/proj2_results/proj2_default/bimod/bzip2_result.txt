@@ -8,7 +8,7 @@ of SimpleScalar, LLC (info@simplescalar.com).
 warning: section `.comment' ignored...
 sim: command line: /home/cs311/simplesim-3.0/sim-outorder -config /home/cs311/simplesim-3.0/config/proj2_default.cfg -bpred bimod -ptrace /home/cs311/simplesim-3.0/proj2_results/proj2_default/bimod/bzip2.trc 1000000:1001000 -redir:sim /home/cs311/simplesim-3.0/proj2_results/proj2_default/bimod/bzip2_result.txt -max:inst 10000000 ../../spec2000binaries/bzip200.peak.ev6 bzip2.lgred.graphic 1 
 
-sim: simulation started @ Fri Nov 27 14:20:37 2020, options follow:
+sim: simulation started @ Sat Nov 28 23:15:09 2020, options follow:
 
 sim-outorder: This simulator implements a very detailed out-of-order issue
 superscalar processor with a two-level memory system and speculative

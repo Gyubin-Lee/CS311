@@ -8,7 +8,7 @@ of SimpleScalar, LLC (info@simplescalar.com).
 warning: section `.comment' ignored...
 sim: command line: /home/cs311/simplesim-3.0/sim-outorder -config /home/cs311/simplesim-3.0/config/proj2_inorder_like.cfg -bpred perfect -ptrace /home/cs311/simplesim-3.0/proj2_results/proj2_inorder_like/perfect/mcf.trc 1000000:1001000 -redir:sim /home/cs311/simplesim-3.0/proj2_results/proj2_inorder_like/perfect/mcf_result.txt -max:inst 10000000 ../../spec2000binaries/mcf00.peak.ev6 mcf.lgred.in 
 
-sim: simulation started @ Fri Nov 27 14:25:23 2020, options follow:
+sim: simulation started @ Sat Nov 28 23:19:47 2020, options follow:
 
 sim-outorder: This simulator implements a very detailed out-of-order issue
 superscalar processor with a two-level memory system and speculative
@@ -137,8 +137,8 @@ sim_num_refs                8209156 # total number of loads and stores committed
 sim_num_loads               5353990 # total number of loads committed
 sim_num_stores         2855166.0000 # total number of stores committed
 sim_num_branches             358694 # total number of branches committed
-sim_elapsed_time                  9 # total simulation time in seconds
-sim_inst_rate          1111111.1111 # simulation speed (in insts/sec)
+sim_elapsed_time                  6 # total simulation time in seconds
+sim_inst_rate          1666666.6667 # simulation speed (in insts/sec)
 sim_total_insn             10000000 # total number of instructions executed
 sim_total_refs              8209156 # total number of loads and stores executed
 sim_total_loads             5353990 # total number of loads executed
